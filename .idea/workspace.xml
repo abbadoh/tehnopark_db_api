@@ -1,0 +1,1498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f383b30-65de-4099-b687-ecf57fb262b3" name="Default" comment="" />
+    <ignored path="db_api.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/databaseService/PostDAO.java" line="140" class="databaseService.PostDAO" package="databaseService">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/databaseService/PostDAO.java" line="246" class="databaseService.PostDAO" package="databaseService">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/databaseService/PostDAO.java" line="184" class="databaseService.PostDAO" package="databaseService">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="db_api" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/servlets/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="37" selection-start="560" selection-end="560" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Api.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/api/Api.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="297" column="35" selection-start="12587" selection-end="12587" vertical-scroll-proportion="-12.0" vertical-offset="4143" max-vertical-offset="7170">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1397646420000" expanded="true" signature="18792:18802" placeholder="DELETE FROM ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Frontend.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/frontend/Frontend.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="60" column="96" selection-start="2193" selection-end="2193" vertical-scroll-proportion="-5.5" vertical-offset="532" max-vertical-offset="2340">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ForumDAO.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/ForumDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="22" selection-start="147" selection-end="148" vertical-scroll-proportion="-2.8846154" vertical-offset="0" max-vertical-offset="1500">
+              <folding>
+                <marker date="1397632824000" expanded="true" signature="440:500" placeholder="insert into ..." />
+                <marker date="1397632824000" expanded="true" signature="1758:1797" placeholder="select * fro..forums..." />
+                <marker date="1397632824000" expanded="true" signature="2391:2579" placeholder="select forum..forums..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PostDAO.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/PostDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="144" column="23" selection-start="6514" selection-end="6514" vertical-scroll-proportion="0.3319149" vertical-offset="1884" max-vertical-offset="4875">
+              <folding>
+                <marker date="1397658771000" expanded="true" signature="856:1015" placeholder="INSERT INTO ..." />
+                <marker date="1397658771000" expanded="true" signature="1629:1777" placeholder="INSERT INTO ..." />
+                <marker date="1397658771000" expanded="true" signature="3042:3092" placeholder="UPDATE threa..." />
+                <marker date="1397658771000" expanded="true" signature="3546:3700" placeholder="SELECT messa..." />
+                <marker date="1397658771000" expanded="true" signature="12736:12779" placeholder="UPDATE posts..." />
+                <marker date="1397658771000" expanded="true" signature="13539:13607" placeholder="UPDATE posts..." />
+                <marker date="1397658771000" expanded="true" signature="13693:13767" placeholder="UPDATE posts..." />
+                <marker date="1397658771000" expanded="true" signature="14379:14420" placeholder="UPDATE posts..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadDAO.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/ThreadDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="311" column="22" selection-start="13001" selection-end="13001" vertical-scroll-proportion="-3.1136363" vertical-offset="4528" max-vertical-offset="5220">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1397639102000" expanded="true" signature="560:604" placeholder="UPDATE threa..." />
+                <marker date="1397639102000" expanded="true" signature="1436:1550" placeholder="INSERT INTO ..." />
+                <marker date="1397639102000" expanded="true" signature="3287:3412" placeholder="SELECT title..." />
+                <marker date="1397639102000" expanded="true" signature="10308:10353" placeholder="UPDATE threa..." />
+                <marker date="1397639102000" expanded="true" signature="11133:11187" placeholder="INSERT INTO ..." />
+                <marker date="1397639102000" expanded="true" signature="11783:11838" placeholder="DELETE FROM ..." />
+                <marker date="1397639102000" expanded="true" signature="12405:12458" placeholder="UPDATE threa..." />
+                <marker date="1397639102000" expanded="true" signature="13228:13298" placeholder="UPDATE threa..." />
+                <marker date="1397639102000" expanded="true" signature="13384:13460" placeholder="UPDATE threa..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserDAO.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/UserDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="202" column="69" selection-start="7852" selection-end="7852" vertical-scroll-proportion="-9.153846" vertical-offset="2792" max-vertical-offset="5130">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1397657691000" expanded="true" signature="526:610" placeholder="INSERT INTO ..." />
+                <marker date="1397657691000" expanded="true" signature="2097:2176" placeholder="SELECT id, u..users..." />
+                <marker date="1397657691000" expanded="true" signature="5513:5569" placeholder="INSERT INTO ..." />
+                <marker date="1397657691000" expanded="true" signature="10193:10250" placeholder="DELETE FROM ..." />
+                <marker date="1397657691000" expanded="true" signature="10801:10853" placeholder="UPDATE users..." />
+                <marker date="1397657691000" expanded="true" signature="11603:11652" placeholder="SELECT follo..followers..." />
+                <marker date="1397657691000" expanded="true" signature="12135:12184" placeholder="SELECT follo..followers..." />
+                <marker date="1397657691000" expanded="true" signature="12675:12722" placeholder="SELECT threa..subscriptions..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/DatabaseService/TExecutor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DatabaseService/ForumDataSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DatabaseService/FollowerDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DatabaseService/FollowerDataSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DatabaseService/PostDataSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DatabaseService/UserDataSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DatabaseService/ThreadDataSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DatabaseService/SubscriptionDataSet.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/DatabaseService/PreparedExecutor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DatabaseService/SimpleExecutor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DatabaseService/ResultHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DatabaseService/ForumDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DatabaseService/PostDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/databaseService/DatabaseServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/servlets/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/databaseService/ForumDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/databaseService/ThreadDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/frontend/Frontend.java" />
+        <option value="$PROJECT_DIR$/src/main/java/api/Api.java" />
+        <option value="$PROJECT_DIR$/src/main/java/databaseService/UserDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/databaseService/PostDAO.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="servlets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="databaseService" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db_api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="preferences.externalResources" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="SearchEverywhereHistory" value="&#10;;&#10;S" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java/tp_2014_02_java_ignatov" />
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails" singleton="true">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="servlets.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="db_api" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Unnamed" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f383b30-65de-4099-b687-ecf57fb262b3" name="Default" comment="" />
+      <created>1395686886387</created>
+      <updated>1395686886387</updated>
+      <workItem from="1395686896151" duration="515000" />
+      <workItem from="1395687418093" duration="7883000" />
+      <workItem from="1396364764247" duration="728000" />
+      <workItem from="1396414709292" duration="27152000" />
+      <workItem from="1396889511189" duration="58240000" />
+      <workItem from="1397165674875" duration="496000" />
+      <workItem from="1397167947987" duration="39000" />
+      <workItem from="1397168107568" duration="62000" />
+      <workItem from="1397168350963" duration="117000" />
+      <workItem from="1397171080369" duration="108000" />
+      <workItem from="1397209197407" duration="50243000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="145583000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39903265" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.24788392" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32889965" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.4993954" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.7521161" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32889965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.7521161" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32889965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39903265" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.24788392" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32889965" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.4993954" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/ThreadDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="12" selection-start="1947" selection-end="1947" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="5235">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1397639102000" expanded="true" signature="560:604" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="1436:1550" placeholder="INSERT INTO ..." />
+            <marker date="1397639102000" expanded="true" signature="3287:3412" placeholder="SELECT title..." />
+            <marker date="1397639102000" expanded="true" signature="10308:10353" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="11133:11187" placeholder="INSERT INTO ..." />
+            <marker date="1397639102000" expanded="true" signature="11783:11838" placeholder="DELETE FROM ..." />
+            <marker date="1397639102000" expanded="true" signature="12405:12458" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="13228:13298" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="13384:13460" placeholder="UPDATE threa..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="30" selection-start="1681" selection-end="1681" vertical-scroll-proportion="0.0" vertical-offset="795" max-vertical-offset="5970">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1397657691000" expanded="true" signature="526:610" placeholder="INSERT INTO ..." />
+            <marker date="1397657691000" expanded="true" signature="2097:2176" placeholder="SELECT id, u..users..." />
+            <marker date="1397657691000" expanded="true" signature="5513:5569" placeholder="INSERT INTO ..." />
+            <marker date="1397657691000" expanded="true" signature="10193:10250" placeholder="DELETE FROM ..." />
+            <marker date="1397657691000" expanded="true" signature="10801:10853" placeholder="UPDATE users..." />
+            <marker date="1397657691000" expanded="true" signature="11603:11652" placeholder="SELECT follo..followers..." />
+            <marker date="1397657691000" expanded="true" signature="12135:12184" placeholder="SELECT follo..followers..." />
+            <marker date="1397657691000" expanded="true" signature="12675:12722" placeholder="SELECT threa..subscriptions..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlets/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="37" selection-start="560" selection-end="560" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/Api.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="380" column="50" selection-start="16496" selection-end="16496" vertical-scroll-proportion="0.0" vertical-offset="5700" max-vertical-offset="6330">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1397646420000" expanded="true" signature="18792:18802" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/ForumDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="764" selection-end="764" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="1545">
+          <folding>
+            <marker date="1397632824000" expanded="true" signature="440:500" placeholder="insert into ..." />
+            <marker date="1397632824000" expanded="true" signature="1758:1797" placeholder="select * fro..forums..." />
+            <marker date="1397632824000" expanded="true" signature="2391:2579" placeholder="select forum..forums..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/PostDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="25" selection-start="2830" selection-end="2830" vertical-scroll-proportion="0.0" vertical-offset="1035" max-vertical-offset="4950">
+          <folding>
+            <marker date="1397658771000" expanded="true" signature="856:1015" placeholder="INSERT INTO ..." />
+            <marker date="1397658771000" expanded="true" signature="1629:1777" placeholder="INSERT INTO ..." />
+            <marker date="1397658771000" expanded="true" signature="3042:3092" placeholder="UPDATE threa..." />
+            <marker date="1397658771000" expanded="true" signature="3546:3700" placeholder="SELECT messa..." />
+            <marker date="1397658771000" expanded="true" signature="12736:12779" placeholder="UPDATE posts..." />
+            <marker date="1397658771000" expanded="true" signature="13539:13607" placeholder="UPDATE posts..." />
+            <marker date="1397658771000" expanded="true" signature="13693:13767" placeholder="UPDATE posts..." />
+            <marker date="1397658771000" expanded="true" signature="14379:14420" placeholder="UPDATE posts..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/ThreadDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="12" selection-start="1947" selection-end="1947" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="5235">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1397639102000" expanded="true" signature="560:604" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="1436:1550" placeholder="INSERT INTO ..." />
+            <marker date="1397639102000" expanded="true" signature="3287:3412" placeholder="SELECT title..." />
+            <marker date="1397639102000" expanded="true" signature="10308:10353" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="11133:11187" placeholder="INSERT INTO ..." />
+            <marker date="1397639102000" expanded="true" signature="11783:11838" placeholder="DELETE FROM ..." />
+            <marker date="1397639102000" expanded="true" signature="12405:12458" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="13228:13298" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="13384:13460" placeholder="UPDATE threa..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="30" selection-start="1681" selection-end="1681" vertical-scroll-proportion="0.0" vertical-offset="795" max-vertical-offset="5970">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1397657691000" expanded="true" signature="526:610" placeholder="INSERT INTO ..." />
+            <marker date="1397657691000" expanded="true" signature="2097:2176" placeholder="SELECT id, u..users..." />
+            <marker date="1397657691000" expanded="true" signature="5513:5569" placeholder="INSERT INTO ..." />
+            <marker date="1397657691000" expanded="true" signature="10193:10250" placeholder="DELETE FROM ..." />
+            <marker date="1397657691000" expanded="true" signature="10801:10853" placeholder="UPDATE users..." />
+            <marker date="1397657691000" expanded="true" signature="11603:11652" placeholder="SELECT follo..followers..." />
+            <marker date="1397657691000" expanded="true" signature="12135:12184" placeholder="SELECT follo..followers..." />
+            <marker date="1397657691000" expanded="true" signature="12675:12722" placeholder="SELECT threa..subscriptions..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlets/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="37" selection-start="560" selection-end="560" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/Api.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="380" column="50" selection-start="16496" selection-end="16496" vertical-scroll-proportion="0.0" vertical-offset="5700" max-vertical-offset="6330">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1397646420000" expanded="true" signature="18792:18802" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/ForumDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="764" selection-end="764" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="1545">
+          <folding>
+            <marker date="1397632824000" expanded="true" signature="440:500" placeholder="insert into ..." />
+            <marker date="1397632824000" expanded="true" signature="1758:1797" placeholder="select * fro..forums..." />
+            <marker date="1397632824000" expanded="true" signature="2391:2579" placeholder="select forum..forums..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/PostDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="25" selection-start="2830" selection-end="2830" vertical-scroll-proportion="0.0" vertical-offset="1035" max-vertical-offset="4950">
+          <folding>
+            <marker date="1397658771000" expanded="true" signature="856:1015" placeholder="INSERT INTO ..." />
+            <marker date="1397658771000" expanded="true" signature="1629:1777" placeholder="INSERT INTO ..." />
+            <marker date="1397658771000" expanded="true" signature="3042:3092" placeholder="UPDATE threa..." />
+            <marker date="1397658771000" expanded="true" signature="3546:3700" placeholder="SELECT messa..." />
+            <marker date="1397658771000" expanded="true" signature="12736:12779" placeholder="UPDATE posts..." />
+            <marker date="1397658771000" expanded="true" signature="13539:13607" placeholder="UPDATE posts..." />
+            <marker date="1397658771000" expanded="true" signature="13693:13767" placeholder="UPDATE posts..." />
+            <marker date="1397658771000" expanded="true" signature="14379:14420" placeholder="UPDATE posts..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/ThreadDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="12" selection-start="1947" selection-end="1947" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="5235">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1397639102000" expanded="true" signature="560:604" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="1436:1550" placeholder="INSERT INTO ..." />
+            <marker date="1397639102000" expanded="true" signature="3287:3412" placeholder="SELECT title..." />
+            <marker date="1397639102000" expanded="true" signature="10308:10353" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="11133:11187" placeholder="INSERT INTO ..." />
+            <marker date="1397639102000" expanded="true" signature="11783:11838" placeholder="DELETE FROM ..." />
+            <marker date="1397639102000" expanded="true" signature="12405:12458" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="13228:13298" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="13384:13460" placeholder="UPDATE threa..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="30" selection-start="1681" selection-end="1681" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="5970">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1397657691000" expanded="true" signature="526:610" placeholder="INSERT INTO ..." />
+            <marker date="1397657691000" expanded="true" signature="2097:2176" placeholder="SELECT id, u..users..." />
+            <marker date="1397657691000" expanded="true" signature="5513:5569" placeholder="INSERT INTO ..." />
+            <marker date="1397657691000" expanded="true" signature="10193:10250" placeholder="DELETE FROM ..." />
+            <marker date="1397657691000" expanded="true" signature="10801:10853" placeholder="UPDATE users..." />
+            <marker date="1397657691000" expanded="true" signature="11603:11652" placeholder="SELECT follo..followers..." />
+            <marker date="1397657691000" expanded="true" signature="12135:12184" placeholder="SELECT follo..followers..." />
+            <marker date="1397657691000" expanded="true" signature="12675:12722" placeholder="SELECT threa..subscriptions..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlets/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="37" selection-start="560" selection-end="560" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/Api.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="380" column="50" selection-start="16496" selection-end="16496" vertical-scroll-proportion="0.0" vertical-offset="5700" max-vertical-offset="6330">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1397646420000" expanded="true" signature="18792:18802" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/ForumDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="764" selection-end="764" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="1545">
+          <folding>
+            <marker date="1397632824000" expanded="true" signature="440:500" placeholder="insert into ..." />
+            <marker date="1397632824000" expanded="true" signature="1758:1797" placeholder="select * fro..forums..." />
+            <marker date="1397632824000" expanded="true" signature="2391:2579" placeholder="select forum..forums..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/PostDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="25" selection-start="2830" selection-end="2830" vertical-scroll-proportion="0.0" vertical-offset="1035" max-vertical-offset="4950">
+          <folding>
+            <marker date="1397658771000" expanded="true" signature="856:1015" placeholder="INSERT INTO ..." />
+            <marker date="1397658771000" expanded="true" signature="1629:1777" placeholder="INSERT INTO ..." />
+            <marker date="1397658771000" expanded="true" signature="3042:3092" placeholder="UPDATE threa..." />
+            <marker date="1397658771000" expanded="true" signature="3546:3700" placeholder="SELECT messa..." />
+            <marker date="1397658771000" expanded="true" signature="12736:12779" placeholder="UPDATE posts..." />
+            <marker date="1397658771000" expanded="true" signature="13539:13607" placeholder="UPDATE posts..." />
+            <marker date="1397658771000" expanded="true" signature="13693:13767" placeholder="UPDATE posts..." />
+            <marker date="1397658771000" expanded="true" signature="14379:14420" placeholder="UPDATE posts..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/ThreadDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="12" selection-start="1947" selection-end="1947" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="5235">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1397639102000" expanded="true" signature="560:604" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="1436:1550" placeholder="INSERT INTO ..." />
+            <marker date="1397639102000" expanded="true" signature="3287:3412" placeholder="SELECT title..." />
+            <marker date="1397639102000" expanded="true" signature="10308:10353" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="11133:11187" placeholder="INSERT INTO ..." />
+            <marker date="1397639102000" expanded="true" signature="11783:11838" placeholder="DELETE FROM ..." />
+            <marker date="1397639102000" expanded="true" signature="12405:12458" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="13228:13298" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="13384:13460" placeholder="UPDATE threa..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="30" selection-start="1681" selection-end="1681" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="5970">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1397657691000" expanded="true" signature="526:610" placeholder="INSERT INTO ..." />
+            <marker date="1397657691000" expanded="true" signature="2097:2176" placeholder="SELECT id, u..users..." />
+            <marker date="1397657691000" expanded="true" signature="5513:5569" placeholder="INSERT INTO ..." />
+            <marker date="1397657691000" expanded="true" signature="10193:10250" placeholder="DELETE FROM ..." />
+            <marker date="1397657691000" expanded="true" signature="10801:10853" placeholder="UPDATE users..." />
+            <marker date="1397657691000" expanded="true" signature="11603:11652" placeholder="SELECT follo..followers..." />
+            <marker date="1397657691000" expanded="true" signature="12135:12184" placeholder="SELECT follo..followers..." />
+            <marker date="1397657691000" expanded="true" signature="12675:12722" placeholder="SELECT threa..subscriptions..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlets/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="37" selection-start="560" selection-end="560" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="435">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/Api.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="380" column="50" selection-start="16496" selection-end="16496" vertical-scroll-proportion="0.0" vertical-offset="5700" max-vertical-offset="6330">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1397646420000" expanded="true" signature="18792:18802" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/ForumDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="764" selection-end="764" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="1545">
+          <folding>
+            <marker date="1397632824000" expanded="true" signature="440:500" placeholder="insert into ..." />
+            <marker date="1397632824000" expanded="true" signature="1758:1797" placeholder="select * fro..forums..." />
+            <marker date="1397632824000" expanded="true" signature="2391:2579" placeholder="select forum..forums..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/PostDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="25" selection-start="2830" selection-end="2830" vertical-scroll-proportion="0.0" vertical-offset="1035" max-vertical-offset="4950">
+          <folding>
+            <marker date="1397658771000" expanded="true" signature="856:1015" placeholder="INSERT INTO ..." />
+            <marker date="1397658771000" expanded="true" signature="1629:1777" placeholder="INSERT INTO ..." />
+            <marker date="1397658771000" expanded="true" signature="3042:3092" placeholder="UPDATE threa..." />
+            <marker date="1397658771000" expanded="true" signature="3546:3700" placeholder="SELECT messa..." />
+            <marker date="1397658771000" expanded="true" signature="12736:12779" placeholder="UPDATE posts..." />
+            <marker date="1397658771000" expanded="true" signature="13539:13607" placeholder="UPDATE posts..." />
+            <marker date="1397658771000" expanded="true" signature="13693:13767" placeholder="UPDATE posts..." />
+            <marker date="1397658771000" expanded="true" signature="14379:14420" placeholder="UPDATE posts..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/ThreadDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="12" selection-start="1947" selection-end="1947" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="5235">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1397639102000" expanded="true" signature="560:604" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="1436:1550" placeholder="INSERT INTO ..." />
+            <marker date="1397639102000" expanded="true" signature="3287:3412" placeholder="SELECT title..." />
+            <marker date="1397639102000" expanded="true" signature="10308:10353" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="11133:11187" placeholder="INSERT INTO ..." />
+            <marker date="1397639102000" expanded="true" signature="11783:11838" placeholder="DELETE FROM ..." />
+            <marker date="1397639102000" expanded="true" signature="12405:12458" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="13228:13298" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="13384:13460" placeholder="UPDATE threa..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="30" selection-start="1681" selection-end="1681" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="5970">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1397657691000" expanded="true" signature="526:610" placeholder="INSERT INTO ..." />
+            <marker date="1397657691000" expanded="true" signature="2097:2176" placeholder="SELECT id, u..users..." />
+            <marker date="1397657691000" expanded="true" signature="5513:5569" placeholder="INSERT INTO ..." />
+            <marker date="1397657691000" expanded="true" signature="10193:10250" placeholder="DELETE FROM ..." />
+            <marker date="1397657691000" expanded="true" signature="10801:10853" placeholder="UPDATE users..." />
+            <marker date="1397657691000" expanded="true" signature="11603:11652" placeholder="SELECT follo..followers..." />
+            <marker date="1397657691000" expanded="true" signature="12135:12184" placeholder="SELECT follo..followers..." />
+            <marker date="1397657691000" expanded="true" signature="12675:12722" placeholder="SELECT threa..subscriptions..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlets/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="39" selection-start="562" selection-end="562" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="435">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/Api.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="380" column="50" selection-start="16496" selection-end="16496" vertical-scroll-proportion="0.0" vertical-offset="5700" max-vertical-offset="6330">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1397646420000" expanded="true" signature="18792:18802" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/ForumDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="764" selection-end="764" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="1545">
+          <folding>
+            <marker date="1397632824000" expanded="true" signature="440:500" placeholder="insert into ..." />
+            <marker date="1397632824000" expanded="true" signature="1758:1797" placeholder="select * fro..forums..." />
+            <marker date="1397632824000" expanded="true" signature="2391:2579" placeholder="select forum..forums..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/PostDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="25" selection-start="2830" selection-end="2830" vertical-scroll-proportion="0.0" vertical-offset="1035" max-vertical-offset="4950">
+          <folding>
+            <marker date="1397658771000" expanded="true" signature="856:1015" placeholder="INSERT INTO ..." />
+            <marker date="1397658771000" expanded="true" signature="1629:1777" placeholder="INSERT INTO ..." />
+            <marker date="1397658771000" expanded="true" signature="3042:3092" placeholder="UPDATE threa..." />
+            <marker date="1397658771000" expanded="true" signature="3546:3700" placeholder="SELECT messa..." />
+            <marker date="1397658771000" expanded="true" signature="12736:12779" placeholder="UPDATE posts..." />
+            <marker date="1397658771000" expanded="true" signature="13539:13607" placeholder="UPDATE posts..." />
+            <marker date="1397658771000" expanded="true" signature="13693:13767" placeholder="UPDATE posts..." />
+            <marker date="1397658771000" expanded="true" signature="14379:14420" placeholder="UPDATE posts..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/ThreadDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="12" selection-start="1947" selection-end="1947" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="5235">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1397639102000" expanded="true" signature="560:604" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="1436:1550" placeholder="INSERT INTO ..." />
+            <marker date="1397639102000" expanded="true" signature="3287:3412" placeholder="SELECT title..." />
+            <marker date="1397639102000" expanded="true" signature="10308:10353" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="11133:11187" placeholder="INSERT INTO ..." />
+            <marker date="1397639102000" expanded="true" signature="11783:11838" placeholder="DELETE FROM ..." />
+            <marker date="1397639102000" expanded="true" signature="12405:12458" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="13228:13298" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="13384:13460" placeholder="UPDATE threa..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="30" selection-start="1681" selection-end="1681" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="5970">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1397657691000" expanded="true" signature="526:610" placeholder="INSERT INTO ..." />
+            <marker date="1397657691000" expanded="true" signature="2097:2176" placeholder="SELECT id, u..users..." />
+            <marker date="1397657691000" expanded="true" signature="5513:5569" placeholder="INSERT INTO ..." />
+            <marker date="1397657691000" expanded="true" signature="10193:10250" placeholder="DELETE FROM ..." />
+            <marker date="1397657691000" expanded="true" signature="10801:10853" placeholder="UPDATE users..." />
+            <marker date="1397657691000" expanded="true" signature="11603:11652" placeholder="SELECT follo..followers..." />
+            <marker date="1397657691000" expanded="true" signature="12135:12184" placeholder="SELECT follo..followers..." />
+            <marker date="1397657691000" expanded="true" signature="12675:12722" placeholder="SELECT threa..subscriptions..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlets/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="8" selection-start="1223" selection-end="1223" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/frontend/Frontend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0" vertical-offset="206" max-vertical-offset="1155">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/Api.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="35" selection-start="797" selection-end="797" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="1230">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1397646420000" expanded="true" signature="18792:18802" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/PostDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="104" column="1" selection-start="4119" selection-end="4119" vertical-scroll-proportion="0.0" vertical-offset="875" max-vertical-offset="1665">
+          <folding>
+            <marker date="1397658771000" expanded="true" signature="856:1015" placeholder="INSERT INTO ..." />
+            <marker date="1397658771000" expanded="true" signature="1629:1777" placeholder="INSERT INTO ..." />
+            <marker date="1397658771000" expanded="true" signature="3042:3092" placeholder="UPDATE threa..." />
+            <marker date="1397658771000" expanded="true" signature="3546:3700" placeholder="SELECT messa..." />
+            <marker date="1397658771000" expanded="true" signature="12736:12779" placeholder="UPDATE posts..." />
+            <marker date="1397658771000" expanded="true" signature="13539:13607" placeholder="UPDATE posts..." />
+            <marker date="1397658771000" expanded="true" signature="13693:13767" placeholder="UPDATE posts..." />
+            <marker date="1397658771000" expanded="true" signature="14379:14420" placeholder="UPDATE posts..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/frontend/Frontend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="0" selection-start="2709" selection-end="2709" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="2760">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/ForumDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="17" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1665">
+          <folding>
+            <marker date="1397632824000" expanded="true" signature="440:500" placeholder="insert into ..." />
+            <marker date="1397632824000" expanded="true" signature="1758:1797" placeholder="select * fro..forums..." />
+            <marker date="1397632824000" expanded="true" signature="2391:2579" placeholder="select forum..forums..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="20" selection-start="626" selection-end="626" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="1035">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlets/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/frontend/Frontend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="141" column="33" selection-start="5798" selection-end="5798" vertical-scroll-proportion="0.0" vertical-offset="2055" max-vertical-offset="2295">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="29" selection-start="536" selection-end="536" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/templater/PageGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="13" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="28" selection-start="529" selection-end="529" vertical-scroll-proportion="0.281602" vertical-offset="0" max-vertical-offset="1035">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/servlets/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="37" selection-start="560" selection-end="560" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/ForumDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="22" selection-start="147" selection-end="148" vertical-scroll-proportion="-2.8846154" vertical-offset="0" max-vertical-offset="1500">
+          <folding>
+            <marker date="1397632824000" expanded="true" signature="440:500" placeholder="insert into ..." />
+            <marker date="1397632824000" expanded="true" signature="1758:1797" placeholder="select * fro..forums..." />
+            <marker date="1397632824000" expanded="true" signature="2391:2579" placeholder="select forum..forums..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/frontend/Frontend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="96" selection-start="2193" selection-end="2193" vertical-scroll-proportion="-5.5" vertical-offset="532" max-vertical-offset="2340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/ThreadDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="311" column="22" selection-start="13001" selection-end="13001" vertical-scroll-proportion="-3.1136363" vertical-offset="4528" max-vertical-offset="5220">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1397639102000" expanded="true" signature="560:604" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="1436:1550" placeholder="INSERT INTO ..." />
+            <marker date="1397639102000" expanded="true" signature="3287:3412" placeholder="SELECT title..." />
+            <marker date="1397639102000" expanded="true" signature="10308:10353" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="11133:11187" placeholder="INSERT INTO ..." />
+            <marker date="1397639102000" expanded="true" signature="11783:11838" placeholder="DELETE FROM ..." />
+            <marker date="1397639102000" expanded="true" signature="12405:12458" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="13228:13298" placeholder="UPDATE threa..." />
+            <marker date="1397639102000" expanded="true" signature="13384:13460" placeholder="UPDATE threa..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="202" column="69" selection-start="7852" selection-end="7852" vertical-scroll-proportion="-9.153846" vertical-offset="2792" max-vertical-offset="5130">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1397657691000" expanded="true" signature="526:610" placeholder="INSERT INTO ..." />
+            <marker date="1397657691000" expanded="true" signature="2097:2176" placeholder="SELECT id, u..users..." />
+            <marker date="1397657691000" expanded="true" signature="5513:5569" placeholder="INSERT INTO ..." />
+            <marker date="1397657691000" expanded="true" signature="10193:10250" placeholder="DELETE FROM ..." />
+            <marker date="1397657691000" expanded="true" signature="10801:10853" placeholder="UPDATE users..." />
+            <marker date="1397657691000" expanded="true" signature="11603:11652" placeholder="SELECT follo..followers..." />
+            <marker date="1397657691000" expanded="true" signature="12135:12184" placeholder="SELECT follo..followers..." />
+            <marker date="1397657691000" expanded="true" signature="12675:12722" placeholder="SELECT threa..subscriptions..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/api/Api.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="297" column="35" selection-start="12587" selection-end="12587" vertical-scroll-proportion="-12.0" vertical-offset="4143" max-vertical-offset="7170">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1397646420000" expanded="true" signature="18792:18802" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/databaseService/PostDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="144" column="23" selection-start="6514" selection-end="6514" vertical-scroll-proportion="0.3319149" vertical-offset="1884" max-vertical-offset="4875">
+          <folding>
+            <marker date="1397658771000" expanded="true" signature="856:1015" placeholder="INSERT INTO ..." />
+            <marker date="1397658771000" expanded="true" signature="1629:1777" placeholder="INSERT INTO ..." />
+            <marker date="1397658771000" expanded="true" signature="3042:3092" placeholder="UPDATE threa..." />
+            <marker date="1397658771000" expanded="true" signature="3546:3700" placeholder="SELECT messa..." />
+            <marker date="1397658771000" expanded="true" signature="12736:12779" placeholder="UPDATE posts..." />
+            <marker date="1397658771000" expanded="true" signature="13539:13607" placeholder="UPDATE posts..." />
+            <marker date="1397658771000" expanded="true" signature="13693:13767" placeholder="UPDATE posts..." />
+            <marker date="1397658771000" expanded="true" signature="14379:14420" placeholder="UPDATE posts..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>db_api</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: cglib:cglib-nodep:2.1_3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
