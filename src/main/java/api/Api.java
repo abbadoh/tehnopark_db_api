@@ -53,7 +53,7 @@ public class Api {
     }
 
     public JSONObject forumMethod(String method, Map<String, String> arguments) throws SQLException, JSONException {
-        JSONObject result = null;
+        JSONObject result;
         String name;
         String short_name;
         String user;
@@ -98,7 +98,7 @@ public class Api {
                     }
                 }
 
-                result = postDAO.list(short_name, true, since, limit, order, relatedUser, relatedForum, relatedThread);
+                result = postDAO.list(short_name, "forum", since, limit, order, relatedUser, relatedForum, relatedThread);
                 break;
             case "listThreads":
                 relatedUser = false;
@@ -198,10 +198,10 @@ public class Api {
                 if(arguments.get("limit") != null) { limit = Integer.parseInt(arguments.get("limit")); }
                 if(arguments.get("order") != null ) { order = arguments.get("order"); }
                 else { order = "desc"; }
-                if(arguments.get("since_id") != null) { since_id = Integer.parseInt(arguments.get("since_id")); }
+                if(arguments.get("since") != null) { since = arguments.get("since"); }
                 email = arguments.get("user");
 
-                result = postDAO.list(email, false,since,limit,order,false,false,false);
+                result = postDAO.list(email, "user",since,limit,order,false,false,false);
                 break;
             case "unfollow":
                 follower = arguments.get("follower");
@@ -295,7 +295,7 @@ public class Api {
                 if(arguments.get("order") != null ) { order = arguments.get("order"); }
                 else { order = "desc"; }
 
-                result = postDAO.list(stringId, false, since, limit, order, false, false, false);
+                result = postDAO.list(stringId, "thread", since, limit, order, false, false, false);
                 break;
             case"open":
                 id = Integer.parseInt(arguments.get("thread"));
@@ -341,6 +341,7 @@ public class Api {
         Integer id;
         String message;
         List<String> related;
+        String argType;
         switch (method) {
             case "create":
 
@@ -383,13 +384,13 @@ public class Api {
                 String argument ;
                 if(arguments.get("forum") != null) {
                     argument = arguments.get("forum");
-                    isForum = true;
+                    argType = "listForum";
                 }
                 else {
                     argument = arguments.get("thread");
-                    isForum = false;
+                    argType = "listThread";
                 }
-                result = postDAO.list(argument,isForum,since,limit,order,false,false,false);
+                result = postDAO.list(argument,argType,since,limit,order,false,false,false);
                 break;
             case "remove":
                 id = Integer.parseInt(arguments.get("post"));

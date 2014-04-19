@@ -155,11 +155,14 @@ public class PostDAO {
         if(relatedForum) { querry.append("join forums on forums.short_name = posts.forum "); }
         if(relatedThread) { querry.append("join threads on threads.id = posts.thread "); }
 
-        if(argType) { querry.append("where posts.forum= ? "); }
-        else{ querry.append("where posts.thread = ? "); }
+        if(argType.equals("forum") || argType.equals("listForum")) { querry.append("where posts.forum = ? "); }
+        else if(argType.equals("thread") || argType.equals("listThread")) { querry.append("where posts.thread = ? "); }
+        else if(argType.equals("user")) { querry.append("where posts.user = ?"); }
 
 
-        if(since != null){ querry.append("and posts.date >=? "); }
+        if(since != null){
+            querry.append("and posts.date >= ? ");
+        }
         if (order.equals("asc")) { querry.append("order by posts.date ASC "); }
         else if(order.equals("desc")) { querry.append("order by posts.date DESC "); }
         if(limit != null){ querry.append("limit ? "); }
@@ -177,6 +180,7 @@ public class PostDAO {
                 stmt.setInt(arg,limit);
                 ++arg;
             }
+
 
             resultSet = stmt.executeQuery();
             JSONArray response = new JSONArray();
@@ -207,9 +211,9 @@ public class PostDAO {
                 if (relatedUser) {
                     JSONObject juser = new JSONObject();
                     juser.put("id", resultSet.getInt("users.id"));
-                    juser.put("username", resultSet.getString("users.username"));
-                    juser.put("about",resultSet.getString("users.about"));
-                    juser.put("name", resultSet.getString("users.name"));
+                    juser.put("username", Api.checkNullValue(resultSet.getString("users.username")));
+                    juser.put("about",Api.checkNullValue(resultSet.getString("users.about")));
+                    juser.put("name", Api.checkNullValue(resultSet.getString("users.name")));
                     juser.put("email", resultSet.getString("email"));
                     juser.put("isAnonymous", resultSet.getBoolean("isAnonymous"));
                     juser.put("following", UserDAO.getListFollowings(resultSet.getString("threads.user"), con));
@@ -231,7 +235,7 @@ public class PostDAO {
                     jthread.put("points", resultSet.getInt("threads.points"));
                     jthread.put("isClosed", resultSet.getBoolean("threads.isClosed"));
                     jthread.put("isDeleted", resultSet.getBoolean("threads.isDeleted"));
-                    jthread.put("post", resultSet.getInt("threads.posts"));
+                    jthread.put("posts", resultSet.getInt("threads.posts"));
                     jthread.put("forum", resultSet.getString("threads.forum"));
                     jthread.put("user", resultSet.getString("threads.user"));
                     post.put("thread",jthread);

@@ -151,7 +151,7 @@ public class ThreadDAO {
             else{ querry.append("where threads.forum = ? "); }
 
 
-        if(since != null){ querry.append("and threads.date >=? "); }
+        if(since != null){ querry.append("and threads.date >= ? "); }
         if (order.equals("asc")){ querry.append("order by threads.date asc "); }
         else if(order.equals("desc")) { querry.append("order by threads.date desc "); }
         if(limit != null){ querry.append("limit ? "); }
@@ -173,6 +173,7 @@ public class ThreadDAO {
             JSONArray response = new JSONArray();
             while (resultSet.next()) {
                 JSONObject thread = new JSONObject();
+                thread.put("id", resultSet.getInt("id"));
                 thread.put("title", resultSet.getString("threads.title"));
                 thread.put("slug", resultSet.getString("threads.slug"));
                 thread.put("message", resultSet.getString("threads.message"));
@@ -196,9 +197,9 @@ public class ThreadDAO {
                 if (relatedUser) {
                     JSONObject juser = new JSONObject();
                      juser.put("id", resultSet.getInt("users.id"));
-                     juser.put("username", resultSet.getString("users.username"));
-                     juser.put("about",resultSet.getString("users.about"));
-                     juser.put("name", resultSet.getString("users.name"));
+                     juser.put("username", Api.checkNullValue(resultSet.getString("users.username")));
+                     juser.put("about",Api.checkNullValue(resultSet.getString("users.about")));
+                     juser.put("name", Api.checkNullValue(resultSet.getString("users.name")));
                      juser.put("email", resultSet.getString("email"));
                      juser.put("isAnonymous", resultSet.getBoolean("isAnonymous"));
                      juser.put("following", UserDAO.getListFollowings(resultSet.getString("threads.user"), con));

@@ -96,7 +96,7 @@ public class UserDAO {
     public static JSONObject list (String forum, Integer limit, String order, Integer since_id, Connection con) {
         JSONObject result = new JSONObject();
         JSONArray response = new JSONArray();
-        StringBuilder query = new StringBuilder("SELECT users.id, username, about, users.name, email, isAnonymous FROM users JOIN posts ON users.email = posts.user where posts.forum = ?");
+        StringBuilder query = new StringBuilder("SELECT distinct users.id, username, about, users.name, email, isAnonymous FROM users JOIN posts ON users.email = posts.user where posts.forum = ?");
 
         if (since_id != null) {
             query.append(" AND users.id >= ?");
@@ -116,7 +116,7 @@ public class UserDAO {
             if (since_id != null) {
                 stmt.setInt(2, since_id);
             }
-
+            System.out.println(stmt.toString());
             ResultSet resultSet = stmt.executeQuery();
 
             while (resultSet.next()) {
